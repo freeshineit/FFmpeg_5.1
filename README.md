@@ -8,3 +8,8 @@
 
 make -j8
 ```
+
+```bash
+
+python3 ffmpeg.py
+```
